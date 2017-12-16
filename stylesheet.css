@@ -1,0 +1,46 @@
+.body {
+    background-color: smokegrey;
+}
+
+.header {
+    width: 100%;
+    background-color: darkgrey;
+    color: lavender;
+    position: absolute;
+
+}
+
+.container {
+    background-color: lightgrey;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+#limits p {
+    color: black;
+}
+
+.green {
+    color: brightgreen;
+}
+
+.red {
+    color: red;
+}
+
+.yellow {
+    color: yellow;
+}
+
+.blue {
+    color: blue;
+}
+
+topic {
+    border-radius: 25;
+    border-color: black;
+    border-width: 2, 2, 5, 5;
+}
+
+.footer {}
+</style>
